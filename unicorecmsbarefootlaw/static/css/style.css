@@ -9,11 +9,11 @@
 
     html, body { margin: 0; padding: 0; background: #fff; font-size: 16px; font-family: Arial, Helvetica, sans-serif; line-height: 1.4em; color: #000; }
     input, select, textarea { font-size: 95%; font-family: Arial, Helvetica, sans-serif; }
-    a { color: #30a8ef; text-decoration: none; }
+    a { color: #a1b500; text-decoration: none; }
     .clr { width: 100%; height: 0px; clear: both; display: block; }
     .grey { background: #fff; color: #666; }
     .light-grey { background: #fff; color: #b0b0b0;}
-    .blue { background: #30a8ef; color: #fff; }
+    .green { background: #a1b500; color: #fff; }
 
 
 /*  HEADER  */
@@ -22,9 +22,9 @@
         #header .drop { display: none; }
         #header .lang {width: 100%; line-height: 20px; padding: 9px 24px; display: block; background: #fff; color: #666; }
             #header .lang .divider { color: #b0b0b0; }
-            #header .lang a {color: #30a8ef; font-weight: normal; }
+            #header .lang a {color: #a1b500; font-weight: normal; }
 
-        #header .site-title { margin: 0; padding: 0; background-color: #30a8ef; }
+        #header .site-title { margin: 0; padding: 0; background-color: #a1b500; }
             #header .site-title div { margin: 0; padding: 24px 24px; line-height: 32px; font-size: 200%; font-weight: bold; }
             #header .site-title a { color: #fff; }
 
@@ -40,7 +40,7 @@
 
         /* Frequently Used */
         .h1,
-        .pagination { line-height: 24px; margin: 0; padding: 14px 24px; font-weight: bold; background: #30a8ef; }
+        .pagination { line-height: 24px; margin: 0; padding: 14px 24px; font-weight: bold; background: #a1b500; color: #fff; }
         .listing { min-height: 45px; border-bottom: solid 1px #e4e4e4; }
         .pagination { border-bottom: solid 1px #e4e4e4;}
             .pagination span { color: #b0b0b0; }
